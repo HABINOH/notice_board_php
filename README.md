@@ -10,7 +10,5 @@
 ------------------
 ##### Index 화면구성
 
-<img src="https://user-images.githubusercontent.com/108309664/178682287-0b7fdc65-9da8-40f7-933f-1a506a3024fb.png" width="700" height="500">
-<!-- <img src="/uploads/1848994ad25765da30fa8ef3684c67bc/캡처.PNG"  width="700" height="370">
-출처: https://cutemoomin.tistory.com/entry/Readme-파일에-이미지-넣기-마크다운-이미지 [무민은귀여워:티스토리]
--->
+<img src="https://user-images.githubusercontent.com/108309664/178682287-0b7fdc65-9da8-40f7-933f-1a506a3024fb.png" width="600" height="500">
+
