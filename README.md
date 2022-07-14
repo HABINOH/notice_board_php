@@ -22,7 +22,7 @@
 
 ------------------
 #### < 글쓰기 >
-<img src="https://user-images.githubusercontent.com/108309664/178683571-abdc4979-0dad-44ea-8050-1e42999c6281.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/108309664/178683571-abdc4979-0dad-44ea-8050-1e42999c6281.png" width="300" height="270">
 
 ------------------
 ## php를 활용한 관리자 페이지 제작
