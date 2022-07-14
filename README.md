@@ -43,11 +43,11 @@
 </pre>
 ------------------
 ### < 로그인 화면 >
-<img src="https://user-images.githubusercontent.com/108309664/178881184-995d4786-4d27-4b8a-94f5-ad46b00e8dec.png" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/108309664/178881184-995d4786-4d27-4b8a-94f5-ad46b00e8dec.png" width="300" height="280">
 
 ------------------
 #### < 관리자 페이지, 로그아웃 >
-<img src="https://user-images.githubusercontent.com/108309664/178881591-85505ec0-879b-4f8c-832e-188f7688226b.png" width="350" heigth="350">
+<img src="https://user-images.githubusercontent.com/108309664/178881591-85505ec0-879b-4f8c-832e-188f7688226b.png" width="300" heigth="300">
 
 ------------------
 ### Reference
