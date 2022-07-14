@@ -43,7 +43,7 @@
 </pre>
 ------------------
 ### < 로그인 화면 >
-<img src="https://user-images.githubusercontent.com/108309664/178881184-995d4786-4d27-4b8a-94f5-ad46b00e8dec.png" width="300" height="230">
+<img src="https://user-images.githubusercontent.com/108309664/178881184-995d4786-4d27-4b8a-94f5-ad46b00e8dec.png" width="300" height="200">
 
 ------------------
 #### < 관리자 페이지, 로그아웃 >
