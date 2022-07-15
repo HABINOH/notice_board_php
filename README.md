@@ -50,6 +50,23 @@
 <img src="https://user-images.githubusercontent.com/108309664/178881591-85505ec0-879b-4f8c-832e-188f7688226b.png" width="300" heigth="300">
 
 ------------------
+## < 회원가입 >
+
+#### < 설명 >
+<pre>
+회원가입 기능을 제작해본다.
+
+기본적인 회원가입을 제작하고 이를 로그인까지 확인해본다.
+
+기능은 아래와 같다.
+1. 사용자의 정보를 DB에 저장 (회원가입)
+2. 저장된 정보를 확인 후 로그인
+3. Salt 알고리즘을 이용한 보안 강화
+</pre>
+------------------
+#### < 회원가입 >
+<img src="">
+------------------
 ### Reference
 
 Rock's Easyweb : [youtube]https://www.youtube.com/c/EasywebPublishing
