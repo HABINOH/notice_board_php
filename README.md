@@ -65,7 +65,7 @@
 </pre>
 ------------------
 #### < 회원가입 >
-<img src="https://user-images.githubusercontent.com/108309664/179180233-b84e8bf3-d2a0-4382-b396-855963cafcb5.png" width="300" height="200">
+<img src="https://user-images.githubusercontent.com/108309664/179180233-b84e8bf3-d2a0-4382-b396-855963cafcb5.png" width="200" height="200">
 
 ------------------
 ### Reference
