@@ -7,36 +7,13 @@
     include('../inc/header.php');   //HTML 시작
     require_once('../inc/functions.php');   //필요한 함수
 
-    
-//$_SERVER['SERVER_NAME'] => 도메인(www.~~~.~~~)
-//$_SERVER['PHP_SELF'] => 파일의 주소(login.php)
-//사용자 입력한 값 확인
-    /*if($_SERVER['REQUEST_METHOD'] == 'POST'){
-        //echo $_POST['email'];
-        output($_POST);
-    }*/
-    if(isset($_POST['login'])){
-        //output($_POST);
-        //email 형식에 맞는지 검사하는 명령어
-        $email = filter_input(INPUT_POST, 'email', FILTER_VALIDATE_EMAIL);
-        $password = $_POST['password'];
-
-        if($email == false){
-            $status = '이메일 형식에 맞게 입력해주세요.';
-        }
-
-        if(authenticate_user($email, $password)){   //email, password 확인 함수
-            $_SESSION['email'] = $email;
-            redirect("admin.php");
-            die();
-        }else{
-            $status = '비밀번호 불일치';
-        }
-    }
-
+    //error 출력
+    if(isset($_GET['error'])){ 
+        echo $_GET['error'];
+   }
 ?>
 
-<form action="" method="POST">
+<form action="login2.php" method="POST">
     <p>
         <lable for="email">Email:</lable>
         <input type="text" name="email" id="email">
@@ -45,10 +22,12 @@
         <lable for="password">Password:</lable>
         <input type="password" name="password" id="password">
     </p>
-    <p>
-        <input type="submit" name="login" value="Login">
+        <input type="submit" name="login" value="Sign in"> 
+        <a href="sign.php"><input type="button" name="Sign" value="Sign up"></a>
     </p>
 </form>
+
+
 <div class="error">
 <p>
     <?php
