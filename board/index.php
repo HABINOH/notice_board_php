@@ -55,5 +55,6 @@
         </p>
         <input type="submit" value="삭제">
     </form>
+       <a href="../manager/logout.php">LOGOUT</a>
 </body>
 </html>
